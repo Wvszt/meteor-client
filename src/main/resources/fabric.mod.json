@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "name": "Pluton Ware",
+  "name": "WieśWare",
   "id": "meteor-client",
   "version": "${version}",
   "description": "Based utility mod.",
