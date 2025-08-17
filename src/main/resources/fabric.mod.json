@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "name": "PlutonWare",
+  "name": "Meteor Client",
   "id": "meteor-client",
   "version": "${version}",
   "description": "Based utility mod.",
