@@ -229,7 +229,7 @@ public class Surround extends Module {
     private int ticks;
 
     public Surround() {
-        super(Categories.Combat, "surround", "Surrounds you in blocks to prevent massive crystal damage.");
+        super(Categories.Combat, "surround", "Dowo bloki obok ciebie zeby cie crystal nie pierdolnył.");
     }
 
     // Render
