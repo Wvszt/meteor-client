@@ -50,7 +50,7 @@ public class Hitboxes extends Module {
     );
 
     public Hitboxes() {
-        super(Categories.Combat, "hitboxes", "Powieksza Hitboxy.");
+        super(Categories.Combat, "hitboxes", "Powjynkszo Hitboxy.");
     }
 
     public double getEntityValue(Entity entity) {
