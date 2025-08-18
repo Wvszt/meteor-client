@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "name": "GamingChair v21.37",
+  "name": "Krzesło GEJmingowe",
   "id": "meteor-client",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "Krzesło GEJmingowe Mod.",
   "authors": [
-    "The Best Minecrafters",
+    "Pluto",
     "Wvszt",
-    "Pawlong2137"
+    "Kuciak_mati"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
