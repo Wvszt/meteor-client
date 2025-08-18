@@ -68,7 +68,7 @@ public class Criticals extends Module {
     private boolean waitingForPeak;
 
     public Criticals() {
-        super(Categories.Combat, "criticals", "Performs critical attacks when you hit your target.");
+        super(Categories.Combat, "criticals", "Krytuje nawet jak nie skaczesz yno musisz ustawić.");
     }
 
     @Override
