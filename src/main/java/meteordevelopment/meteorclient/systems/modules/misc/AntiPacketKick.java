@@ -30,7 +30,7 @@ public class AntiPacketKick extends Module {
     );
 
     public AntiPacketKick() {
-        super(Categories.Misc, "anti-packet-kick", "Attempts to prevent you from being disconnected by large packets.");
+        super(Categories.Misc, "anti-packet-kick", "Próbuje cie nie wypierdolić z serwera przez pakiety.");
     }
 
     public boolean catchExceptions() {
